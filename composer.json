@@ -1,0 +1,15 @@
+{
+    "name": "suard/adventofcode",
+    "autoload": {
+        "psr-4": {
+            "Suard\\Adventofcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damme",
+            "email": "suard.damme@nos.nl"
+        }
+    ],
+    "require": {}
+}
